@@ -43,7 +43,7 @@ book= input("What is your favorite book? ")
 favmovie= input("What is your favorite movie? ")
 song= input("What is your favorite song? ")
 # Print a message that says, "Your favorite book is [Book], your favorite movie is [Movie], and your favorite song is [Song]."
-
+print(f"Your favorite book is {book}, your favorite movie is {favmovie}, and your favorite song is {song}.")
 
 # Advanced F-String Practice:
 
